@@ -1,3 +1,3 @@
 # favorite food
 
-app 24
+apple
